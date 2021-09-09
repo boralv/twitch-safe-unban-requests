@@ -7,8 +7,6 @@
 ### STEP 1 Script Manager
 
 - Chrome - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- Brave - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- Vivaldi - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - Firefox - [Tampermonkey](https://addons.mozilla.org/ko/firefox/addon/tampermonkey/)
 - Opera - [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/)
 - Safari - [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz)
